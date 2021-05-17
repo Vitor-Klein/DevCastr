@@ -1,6 +1,6 @@
-<div align="center">
-    <img width=40% src="/public/logo.svg">
-</div>
+<!-- <div align="center">
+    <img width=40% src="./public/logo.svg">
+</div> -->
 
 <div align="center">
     <h1> Mantenha-se informado no mundo Dev </h1>
