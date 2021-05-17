@@ -4,8 +4,6 @@
 
 <div align="center">
     <h1> Mantenha-se informado no mundo Dev </h1>
-    <a href="https://rocketseat.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/rocketseat-NextLevelWeek5-04d361?logo=&style=for-the-badge&labelColor=8257e5" target="_blank" alt="Next-Level-Week-5">
     </a>
     <img src="https://img.shields.io/github/languages/count/Vitor-Klein/NLW-5-trilha-ReactJS?color=04d361&style=for-the-badge&labelColor=8257e5" alt="Linguagens"> 
     <img src="https://img.shields.io/github/languages/top/Vitor-Klein/NLW-5-trilha-ReactJS?color=04d361&style=for-the-badge&labelColor=8257e5" alt="Linguagens"> 
