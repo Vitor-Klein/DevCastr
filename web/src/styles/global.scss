@@ -20,10 +20,13 @@
   --purple-400: #9164FA; 
   --purple-500: #8257E5;
   --purple-800: #6F48C9;
+  --purple-900: #191622;
+
+  --dark-800: #1E1A1D;
 }
 
 body{
-  background-color: var(--gray-50);
+  background-color: var(--dark-800);
 }
 
 body, input, textarea, button{
