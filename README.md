@@ -56,13 +56,14 @@ O Podcastr é uma aplicação desenvolvida durante a Next Level Week 5 de React 
 $ git clone https://github.com/Vitor-Klein/DevCastr
 
 # Entre na pasta do projeto
-$ cd podcastr
+$ cd web or cd mobile
 
 # Instale as dependências
 $ npm install / yarn install
 
 # Execute a aplicação
-$ npm run dev / yarn dev
+$ web: npm run dev / yarn dev
+$ mobile: expo start
 
 # Abra http://localhost:3000 no seu navegador para ver a aplicação!
 ```
@@ -74,3 +75,4 @@ Faça um **fork** do repositório e se te ajudei de alguma forma, deixe uma 🌟
 This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 
 ---
+### readme make to me ❤ Vitor-Klein :)
